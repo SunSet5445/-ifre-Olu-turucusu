@@ -1,3 +1,6 @@
+print("başla")
+
+
 import random
 karakterler = "+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 sifre_uzunlugu = int(input("Şifre Uzunluğunuzu Girin: "))
